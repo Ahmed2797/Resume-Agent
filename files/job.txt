@@ -1,0 +1,43 @@
+Job Title: Machine Learning Engineer (Generative AI & MLOps)
+
+Location: Remote / Dhaka, Bangladesh
+
+Experience: 2–4 Years
+Role Overview We are seeking a versatile Machine Learning Engineer to join our AI team. You will be responsible for designing, building, and deploying production-ready AI systems. The ideal candidate has a blend of expertise in Deep Learning (Computer Vision), Generative AI (LLMs/RAG), and a "DevOps mindset" for managing the full ML lifecycle. You won't just train models; you will build the pipelines that keep them running.
+Key Responsibilities
+
+    End-to-End Development: Design and implement scalable ML pipelines, from data ingestion and feature engineering to model deployment and monitoring.
+
+    Generative AI & Agents: Develop advanced RAG (Retrieval-Augmented Generation) systems and multi-agent workflows using frameworks like LangChain, CrewAI, and Pinecone.
+
+    Computer Vision: Build and optimize object detection and image segmentation models using YOLO, PyTorch, and OpenCV.
+
+    MLOps Excellence: Implement version control for data and experiments using DVC and MLflow. Automate deployments using Docker and GitHub Actions.
+
+    Backend Integration: Develop high-performance APIs using FastAPI to serve models to end-users.
+
+    Cloud Infrastructure: Manage and scale AI solutions on AWS (EC2, S3) and ensure seamless CI/CD integration.
+
+Required Technical Skills
+
+    Languages: Python (Expert), SQL.
+
+    Frameworks: PyTorch, TensorFlow, Keras.
+
+    Generative AI: LangChain, LangGraph, RAG architecture, Vector Databases (ChromaDB, Pinecone).
+
+    MLOps Tools: DVC, MLflow, Dagshub, Docker.
+
+    Computer Vision: YOLO (v8/v10), SAM (Segment Anything Model), Image Classification.
+
+    Deployment: FastAPI, Streamlit, AWS, Linux/Bash scripting.
+
+Preferred Qualifications
+
+    Bachelor’s degree in Computer Science, Data Science, or a related technical field.
+
+    A strong portfolio of GitHub projects demonstrating end-to-end ML applications (e.g., Churn Prediction, Medical AI, or Video Analytics).
+
+    Experience with Agentic AI and autonomous workflows.
+
+    Relevant certifications from Stanford Online, Coursera, or DeepLearning.AI.
